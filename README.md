@@ -6,6 +6,8 @@ This project provides an in-depth analysis of vehicle collisions in New York Cit
 
 The primary goal is to uncover trends, identify patterns, and provide actionable insights into collision incidents, focusing on the impact of time and location on collision frequency and severity.
 
+https://public.tableau.com/app/profile/rahul.vispute/vizzes
+
 ---
 
 ## Data Story Highlights
